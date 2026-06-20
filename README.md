@@ -49,11 +49,9 @@ Backend Engineer focused on **AI infrastructure** and **distributed systems**.
 
 ### 📊 GitHub Stats
 
-![Arihanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=arihanthsharma15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arihanthsharma15&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihanthsharma15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=typescript,javascript,html,css,jupyter%20notebook)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arihanthsharma15&theme=tokyonight&hide_border=true)
 
 ---
 
